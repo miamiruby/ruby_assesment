@@ -1,0 +1,16 @@
+<div style="font-size: 20px; font-weight: bold; margin: 20px 0;">New poem</div>
+
+<%= form_tag "/poems" do %>
+  Your name: <%= text_field_tag :my_name %><br>
+  Your beloved's name: <%= text_field_tag :recipient_name %><br>
+  Your beloved's email: <%= text_field_tag :email %><br>
+  <%= submit_tag "Send poem" %>
+<% end %>
+
+<div style="font-size: 20px; font-weight: bold; margin: 20px 0;">Former poems</div>
+
+<% @poems.each do |poem| %>
+  <div style="margin-bottom: 20px">
+    <%= poem.text %>
+  </div>
+<% end %>
