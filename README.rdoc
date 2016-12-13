@@ -4,6 +4,15 @@
 
 ## To start, checkout branch:
 
-Fork the repository
-Code and commit all your changes
-Send a pull request
+- Fork the repository
+
+- Code and commit all your changes
+
+## Once complete, please add the following to the README and answer the following:
+
+- What was difficult about this exercise?
+
+- What would you have done if you had had more time?
+
+- What were your overall thoughts on this assessment?
+
