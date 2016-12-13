@@ -4,6 +4,6 @@
 
 ## To start, checkout branch:
 
-git checkout candidate_assessment
-git checkout -b jsmith20160808
-git push --set-upstream origin jsmith20160808
+Fork the repository
+Code and commit all your changes
+Send a pull request
