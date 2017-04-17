@@ -1,12 +1,12 @@
 # Ruby Assessment
 
-The repo contains a small rails app. The challenge is to simply look through the app for trouble areas, and make improvements. The code is small enough that it should take 60-90 minutes to complete the work.
+The goal of this exercise is to see how you would go about refactoring the application. We do not want to give too much detail in what that means, because we want to see what you think is good vs. bad. Do not to spend more than 4 hours worth of time on the challenge. 
 
 ## To start
 
 - Clone the repo
 
-- Start a feature with your name and the date your started, mine would be feature/erik_petersen/2017_04_01
+- Start a feature branch with your name and the date you started, mine would be "feature/erik_petersen/2017_04_01"
 
 ## Please add the following to the README and answer the following:
 
