@@ -1,4 +1,4 @@
-#Ruby Assessment
+# Ruby Assessment
 
 The repo contains a small rails app. The challenge is to simply look through the app for trouble areas, and make improvements. The code is small enough that it should take 60-90 minutes to complete the work.
 
