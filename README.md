@@ -8,15 +8,15 @@ The repo contains a small rails app. The challenge is to simply look through the
 
 - Start a feature with your name and the date your started, mine would be feature/erik_petersen/2017_04_01
 
-## To Complete
-
-- Push your feature branch and inform via your email contact that you have finished
-
-## Once complete, please add the following to the README and answer the following:
+## Please add the following to the README and answer the following:
 
 - What was difficult about this exercise?
 
 - What would you have done if you had had more time?
 
 - What were your overall thoughts on this assessment?
+
+## To Complete
+
+- Push your feature branch and inform via your email contact that you have finished
 
