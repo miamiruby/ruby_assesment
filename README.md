@@ -1,6 +1,6 @@
 # Ruby Assessment
 
-The goal of this exercise is to see how you would go about refactoring the application. We do not want to give too much detail in what that means, because we want to see what you think is good vs. bad. Do not to spend more than 4 hours worth of time on the challenge. 
+The goal of this exercise is to see how you would go about refactoring the application. We do not want to give too much detail in what that means, because we want to see what you think is good vs. bad. Do not to spend more than 60-90 minutes worth of time on the challenge. 
 
 ## To start
 
