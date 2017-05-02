@@ -11,10 +11,13 @@ The goal of this exercise is to see how you would go about refactoring the appli
 ## Please add the following to the README and answer the following:
 
 - What was difficult about this exercise?
+  It is reasonable
 
 - What would you have done if you had had more time?
+  Used simpleform, made tests, used a css framework for the layouts
 
 - What were your overall thoughts on this assessment?
+  I like that it was open.. many take too long or too short
 
 ## To Complete
 
