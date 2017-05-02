@@ -30,6 +30,13 @@ gem 'turbolinks'
 # Setup Haml
 gem 'haml'
 
+# Setup Decent Exposure
+gem 'decent_exposure', '3.0.0'
+
+gem 'byebug'
+gem 'awesome_print'
+gem "letter_opener", :group => :development
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false

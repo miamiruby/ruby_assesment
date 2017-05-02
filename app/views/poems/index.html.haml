@@ -1,13 +1,9 @@
-%div{:style => "font-size: 20px; font-weight: bold; margin: 20px 0;"} New poem
-= form_tag "/poems" do
-  Your name: #{text_field_tag :my_name}
-  %br/
-  Your beloved's name: #{text_field_tag :recipient_name}
-  %br/
-  Your beloved's email: #{text_field_tag :email}
-  %br/
-  = submit_tag "Send poem"
-%div{:style => "font-size: 20px; font-weight: bold; margin: 20px 0;"} Former poems
-- @poems.each do |poem|
-  %div{:style => "margin-bottom: 20px"}
+%h1#new_poem New Poem
+
+= render 'form'
+
+%h2#former_poems Former poems
+
+- poems.each do |poem|
+  #poem
     = poem.text

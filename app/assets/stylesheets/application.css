@@ -11,3 +11,18 @@
  *= require_self
  *= require_tree .
  */
+
+#new_poem{
+  font-size: 20px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+#poem{
+  margin-bottom: 20px;
+}
+
+#former_poem {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 20px 0;
+}
